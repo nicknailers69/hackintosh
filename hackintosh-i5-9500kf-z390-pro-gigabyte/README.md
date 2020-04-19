@@ -10,6 +10,7 @@
 - Wifi / Bluetooth all working (handoff continuity)
 - Multi monitor (3 tested) up to 4k tested and working
 - SSD Drives working
+- Netflix DRM, H264m HEVC Working 
 
 I did not find anything not working well with it so far.
 - My smbios is iMac Pro 1,1
