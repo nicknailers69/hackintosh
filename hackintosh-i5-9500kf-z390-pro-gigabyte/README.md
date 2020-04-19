@@ -1,3 +1,5 @@
+## UPDATES: I decided to add my config.plist in case some people may need it. I did replace information in the smbios section. Put your own! :)
+
 # OPENCORE 0.5.7 (OSX Catalina tested up to 10.15.5 beta2 19F62F) KEXT DRIVERS AND SSDT PATCHES GIGABYTE z390 PRO + I5-9600KF (no iGPU version)
 ## this is my configuration and is working with the following specs: 
 - CPU: i5-9600KF
