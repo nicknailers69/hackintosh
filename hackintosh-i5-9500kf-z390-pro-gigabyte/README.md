@@ -1,4 +1,4 @@
-# OPENCORE 0.5.7 KEXT DRIVERS AND SSDT PATCHES GIGABYTE z390 PRO + I5-9600KF (no iGPU version)
+# OPENCORE 0.5.7 (OSX Catalina tested up to 10.15.5 beta2 19F62F) KEXT DRIVERS AND SSDT PATCHES GIGABYTE z390 PRO + I5-9600KF (no iGPU version)
 ## this is my configuration and is working with the following specs: 
 - CPU: i5-9600KF
 - GPU: AMD Vega 64 8GB
@@ -14,3 +14,9 @@
 I did not find anything not working well with it so far.
 - My smbios is iMac Pro 1,1
 
+# IMPORTANT
+- do not enable the firmware driver it is replaced by opencanopy and Openruntime. 
+- configure your config.plist following the opencore guide here: https://dortania.github.io/OpenCore-Desktop-Guide/
+
+# Guarantees
+## I do not guarantee this will work on your machine. Make sure to back it up. I am not responsible if you break anything. Always follow the official guides first. This is intended to help you figure out what kext and drivers you may need for your build if something doesn't work. 
